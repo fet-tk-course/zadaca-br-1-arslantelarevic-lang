@@ -116,4 +116,4 @@ Repozitorij treba sadržavati:
 
 Ja sam student koji uči Git. Zanimaju me programiranje i IT. Ovo je moja Git zadaća.
 
-Ovaj repo sadrži moj GitHub zadaću.
+Ovaj repo sadrži moj GitHub zadaću za predmet Razvoj telekomunikacijske programske podrške.
