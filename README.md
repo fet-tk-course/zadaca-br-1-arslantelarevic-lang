@@ -112,5 +112,8 @@ Repozitorij treba sadržavati:
 - 1 riješen merge konflikt
 
 ---
+## Uvod
+
+Ja sam student koji uči Git. Zanimaju me programiranje i IT. Ovo je moja Git zadaća.
 
 Ovaj repo sadrži moj GitHub zadaću.
